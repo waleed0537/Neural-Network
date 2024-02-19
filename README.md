@@ -1,2 +1,1 @@
-#Neural Networks
-Operating Systems C++
+#Neural network using multi threading in c++
